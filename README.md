@@ -3,12 +3,12 @@ This github repository contains the code base for a Amazon Echo web series creat
 
 ## Videos
 
-1. (Video 1 of 6)[#Video-1-of-6-(intro)] (Intro)[https://youtu.be/FeFGUM8Iooo]
-2. (Video 2 of 6)[#Video-2-of-6-(Course-Overview)] (Course Overview)[https://youtu.be/wbce5tvqfqQ]
-3. (Video 3 of 6)[#Video-3-of-6-(Building-out-the-skill-service)] (Building out the skill service - Lambda)[https://youtu.be/Egsa02KQjzo]
-4. (Video 4 of 6)[#Video-4-of-6-(Building-out-the-skill-interface)] (Building out the skill interface)[https://youtu.be/rqw_bdvYGsM]
-5. (Video 5 of 6)[#Video-5-of-6-(Code-Walkthrough)] (Code walkthrough)[https://youtu.be/9e62OFoEidY]
-6. (Video 6 of 6)[#Video-6-of-6-(flask-ask-&-ngrok)] (flask-ask & ngrok)[https://youtu.be/PhN-t5vQCwo]
+1. [Video 1 of 6](#Video-1-of-6-(intro)) [(Intro)](https://youtu.be/FeFGUM8Iooo)
+2. [Video 2 of 6](#Video-2-of-6-(Course-Overview)) [(Course Overview)](https://youtu.be/wbce5tvqfqQ)
+3. [Video 3 of 6](#Video-3-of-6-(Building-out-the-skill-service)) [(Building out the skill service - Lambda)](https://youtu.be/Egsa02KQjzo)
+4. [Video 4 of 6](#Video-4-of-6-(Building-out-the-skill-interface)) [(Building out the skill interface)](https://youtu.be/rqw_bdvYGsM)
+5. [Video 5 of 6](#Video-5-of-6-(Code-Walkthrough)) [(Code walkthrough)](https://youtu.be/9e62OFoEidY)
+6. [Video 6 of 6](#Video-6-of-6-(flask-ask-&-ngrok)) [(flask-ask & ngrok)](https://youtu.be/PhN-t5vQCwo)
 
 ## Descriptions
 
