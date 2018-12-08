@@ -3,12 +3,12 @@ This github repository contains the code base for a Amazon Echo web series creat
 
 ## Videos
 
-1. (Video 1 of 6)[#Video-1-of-6-(intro)] (Intro)[https://youtu.be/FeFGUM8Iooo]
-2. (Video 2 of 6)[#Video-2-of-6-(Course-Overview)] (Course Overview)[https://youtu.be/wbce5tvqfqQ]
-3. (Video 3 of 6)[#Video-3-of-6-(Building-out-the-skill-service)] (Building out the skill service - Lambda)[https://youtu.be/Egsa02KQjzo]
-4. (Video 4 of 6)[#Video-4-of-6-(Building-out-the-skill-interface)] (Building out the skill interface)[https://youtu.be/rqw_bdvYGsM]
-5. (Video 5 of 6)[#Video-5-of-6-(Code-Walkthrough)] (Code walkthrough)[https://youtu.be/9e62OFoEidY]
-6. (Video 6 of 6)[#Video-6-of-6-(flask-ask-&-ngrok)] (flask-ask & ngrok)[https://youtu.be/PhN-t5vQCwo]
+1. [Video 1 of 6](#Video-1-of-6-(intro)) [(Intro)](https://youtu.be/FeFGUM8Iooo)
+2. [Video 2 of 6](#Video-2-of-6-(Course-Overview)) [(Course Overview)](https://youtu.be/wbce5tvqfqQ)
+3. [Video 3 of 6](#Video-3-of-6-(Building-out-the-skill-service)) [(Building out the skill service - Lambda)](https://youtu.be/Egsa02KQjzo)
+4. [Video 4 of 6](#Video-4-of-6-(Building-out-the-skill-interface)) [(Building out the skill interface)](https://youtu.be/rqw_bdvYGsM)
+5. [Video 5 of 6](#Video-5-of-6-(Code-Walkthrough)) [(Code walkthrough)](https://youtu.be/9e62OFoEidY)
+6. [Video 6 of 6](#Video-6-of-6-(flask-ask-&-ngrok)) [(flask-ask & ngrok)](https://youtu.be/PhN-t5vQCwo)
 
 ## Descriptions
 
@@ -27,9 +27,9 @@ In this video we walk you through the process of creating the skill service (bac
 ### Video 4 of 6 (Building out the skill interface)
 In this video we walk you through the process of creating the skill interface for the Coding Dojo skill. After signing in to the Amazon developer console we walk you through all of the steps to complete the skill. After completing all of the settings to create the skill interface we use the testing feature to make sure your skill is working. We also stop to explain the meaning of important settings throughout the process. Some of these settings are:
  - Invocation Name
- - <li>Intent Schema
- - <li>Sample Utterances
- - <li>Custom Slot Types
+ - Intent Schema
+ - Sample Utterances
+ - Custom Slot Types
 
 ### Video 5 of 6 (Code Walkthrough)
 In this video we take some time to explain how information is passed from the skill interface (Alexa Skills Kit) to the skill service (AWS Lambda) and back. We also touch on the different attributes and functions that you may encounter with building any new skill.
